@@ -6,10 +6,10 @@
   "scripts": {
     "start": "node Merpati.js"
   },
-  "dependencies": {
+"dependencies": {
     "discord.js": "^13.16.0",
     "discord-modals": "^1.2.7",
     "dotenv": "^16.0.0",
-    "mysql2": "^3.9.0" 
+    "mysql2": "^3.9.0"
   }
 }
