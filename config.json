@@ -1,0 +1,9 @@
+{
+    "mysql": {
+        "connectionLimit": 5,
+        "host": "positron.optiklink.com",
+        "user": "u294607_5q3pxkJyDC",
+        "password": "sjOS3m4=g7KCjlj8uinJPNgI",
+        "database": "s294607_navi"
+    }
+}
